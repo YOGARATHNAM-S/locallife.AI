@@ -27,7 +27,7 @@ export const Layout: React.FC<Props> = ({ children, theme, onToggleTheme }) => {
         <div className="flex items-center gap-3">
           {/* GitHub Link */}
           <a 
-            href="https://github.com" 
+            href="https://github.com/YOGARATHNAM-S/locallife.AI.git" 
             target="_blank" 
             rel="noopener noreferrer"
             className="p-2 text-slate-400 hover:text-slate-900 dark:hover:text-white transition-colors"
