@@ -1,0 +1,9 @@
+
+{
+  "name": "LocalLife AI – Street Food & Slang Intelligence Platform",
+  "description": "A context-aware AI assistant that helps you eat like a local and speak like a local using city-specific intelligence and the Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
